@@ -47,3 +47,4 @@ if st.button('Diabetes Test Result'):
     else:
         diabetes = 'The Person does not have a Diabetas'
         st.success(diabetes)
+        st.balloons()
